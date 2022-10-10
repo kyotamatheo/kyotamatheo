@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kyota</h1>
-
-<h3 align="center">Just Tried All This</h3>
+![Header](./[github-header-image.png])
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyotamatheo&label=Profile%20views&color=0e75b6&style=flat" alt="kyotamatheo" /> </p>
 
