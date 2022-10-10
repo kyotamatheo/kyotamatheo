@@ -1,7 +1,5 @@
 ![Header](./[github-header-image.png])
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kyotamatheo&label=Profile%20views&color=0e75b6&style=flat" alt="kyotamatheo" /> </p>
-
 <p align="left">
 
 </p>
@@ -14,17 +12,7 @@
 
 <p><a href="https://www.buymeacoffee.com/kyotamatheo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kyotamatheo" /></a><a href="https://ko-fi.com/kyotamatheo"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kyotamatheo" /></a></p><br><br>
 
-
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ramlan404" alt="Ramlan404" /></a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyotamatheo&show_icons=true&locale=en" alt="kyotamatheo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyotamatheo&" alt="kyotamatheo" /></p>
-
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
